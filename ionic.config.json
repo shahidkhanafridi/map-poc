@@ -1,0 +1,8 @@
+{
+  "name": "Map POC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b458f42b"
+}
